@@ -1,46 +1,155 @@
-# Article 1er :
+L@bx statusV2
+
+
+# Article 1er - Titre:
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : L@bx
 
-# Article 2 :
-Cette association a pour but :La conception, fabrications d'outils numériques ou non visant à susciter ou favoriser la créationLa réalisation de projets coopératifs ayant une composante culturelle, humanitaire ou scientifiqueLa transmission de savoir faire par la publication des travaux effectuésL'engagement d'actions susceptible d'accroître la liberté d'utiliser, créer, analyser, modifier tout objet ou tout bienLa mise à disposition aux adhérents d'un espace de travail Internet et physiqueLa mise à disposition de ressources communesLa sensibilisation aux technologies ainsi que leur étude et appropriationLa volonté de recycler ou retrouver une utilisation au matériel ainsi que de trier les déchets inhérents aux projets
 
-# Article 3 :
-Siège social - Le siège social est fixé sur la Communauté Urbaine de Bordeaux. Il pourra être transféré par simple décision du conseil d'administration ; la ratification par l'assemblée générale sera nécessaire.
+# Article 2 - Objet:
+Cette association a pour but : 
+- La conception, fabrications d'outils numériques ou non visant à susciter ou favoriser la création. 
+- La réalisation de projets coopératifs ayant une composante culturelle, humanitaire ou scientifique. 
+- La transmission de savoir faire par la publication des travaux effectués. 
+- L'engagement d'actions susceptible d'accroître la liberté d'utiliser, créer, analyser, modifier tout objet ou tout bien. 
+- La mise à disposition des adhérents d'un espace de travail internet et physique. 
+- La mise à disposition de ressources communes. 
+- La sensibilisation aux technologies ainsi que leur étude et appropriation. 
+- La volonté de recycler ou retrouver une utilisation au matériel ainsi que de trier les déchets inhérents aux projets
 
-# Article 4 :
-L'association se compose de :a) membres d'honneur.b) membres actifs ou adhérents.c) un bureau composé au minimum d'un président, d'un trésorier et d'un secrétaire élus lors de l'Assemblée Générale et reconductible chaque année. Ils sont assistés d'un vice-président, d'un vice-trésorier et d'un vice-secrétaire dans leurs tâches. Le président et le trésorier ont la signature des comptes bancaires.
 
-# Article 5 :
+# Article 3 - Siège social:
+Le siège social est fixé sur le territoire de Bordeaux-Métropole. Il pourra être transféré par simple décision du conseil d'administration ; la ratification par l'assemblée générale sera nécessaire.
+
+
+# Article 4 - Composition :
+L'association se compose de :
+- Membres d'honneur.
+- Membres actifs ou adhérents .
+- D'un conseil d'administration (CA) élu lors de l'Assemblée Générale et reconductible chaque année.
+
+
+# Article 5 - Durée:
 La durée de l'association est illimitée.
 
-# Article 6 :
-Admission - Pour faire partie de l'association, il faut être agréé par le bureau qui statue, lors de chacune de ses réunions, sur les demandes d'admission présentées. Les avis sont motivés ensuite par le bureau pendant les Assemblées Générales.
-Le montant, la périodicité ainsi que le mode de paiement de l'adhésion sont précisés dans le règlement interieur.
 
-# Article 7 :
-Les membres - Sont membres d'honneur, ceux qui ont rendu des services signalés à l'association ; ils sont dispensés de cotisations mais ne peuvent prendre part aux votes de l'Assemblée Générale. Sont membres actifs, ceux qui sont à jours de leur cotisations. Ils ont le droit de vote lors des Assemblées Générales.
+# Article 6 - Admission:
+L'admission est ouverte à toutes personnes qui adhère aux statuts et à la charte du L@bx
 
-# Article 8 :
-Radiations - La qualité de membre se perd par : a) la démission ; b) le décès ; c) la radiation prononcée par le bureau pour non-paiement de la cotisation ou pour motif grave, l'intéressé ayant été invité par lettre recommandée à se présenter devant le bureau pour fournir des explications.  Les avis sont motivés ensuite par le bureau pendant les Assemblées Générales. 
 
-# Article 9 :
-Les ressources de l'association comprennent :1. le montant des droits d'entrée et des cotisations ;2. les subventions éventuelles.;3 les libéralités et autres dons manuels ;4. toutes autres ressources non contraire aux règlements en vigueur.
+# Article 7 - Les membres:
+Sont membres d'honneur ceux qui ont rendu des services signalés à l'association ; ils sont dispensés de cotisations mais ne peuvent prendre part aux votes de l'Assemblée Générale.
+Sont membres actifs ceux qui sont à jours de leur cotisations. Ils ont le droit de vote lors des Assemblées Générales.
 
-# Article 10 :
-Le Bureau - L'association est dirigée par un bureau de membres, élus pour une  année par l'assemblée générale et reconductibles chaque année. Les membres sont rééligibles.  En cas de vacance, le conseil pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif par la prochaine assemblée générale. Les pouvoirs des membres ainsi élus prennent fin à l'époque où devrait normalement expirer le mandat des membres remplacés. 
 
-# Article 11 :
-Réunion du Bureau - Le Bureau se réunit une fois au moins tous les six mois, sur convocation du président, ou sur la demande du quart de ses membres. Les décisions sont prises à la majorité des voix ; en cas de partage, la voix du président est prépondérante. Tout membre du bureau, qui, sans excuse, n'aura pas assisté à trois réunions consécutives, pourra être considéré comme démissionnaire. Nul ne peut faire partie du bureau s'il n'est pas majeur.
+# Article 8 - Radiations:
+La qualité de membre se perd par : 
+- La démission.
+- Le décès.
+- La radiation prononcée par le bureau pour non-paiement de la cotisation ou pour motif grave, l'intéressé ayant été invité  à se présenter devant le CA  pour fournir des explications.  Les avis sont motivés ensuite par le CA pendant les Assemblées Générales. 
 
-# Article 12 :
-Assemblée générale ordinaire - L'assemblée générale ordinaire comprend tous les membres de l'association à quelque titre qu'ils y soient affiliés. Elle pourra avoir lieu à distance soit par visio-conférence, soit par audio-conférence, soit par IRC ou assimilés. Le mode choisit est validé par le Bureau. L'assemblée générale ordinaire se réunit au moins une fois par année civile. Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par les soins du secrétaire par e-mail. L'ordre du jour est indiqué sur les convocations. Le président, assisté des membres du comité, préside l'assemblée et expose la situation morale de l'association. Le trésorier rend compte de sa gestion et soumet le bilan à l'approbation de l'assemblée. Il est procédé, après épuisement de l'ordre du jour, au remplacement, au scrutin secret, des membres du conseil sortants. Ne devront être traitées, lors de l'assemblée générale, que les questions soumises à l'ordre du jour.
 
-# Article 13 :
-Assemblée générale extraordinaire - Si besoin est, ou sur la demande de la moitié plus un des membres inscrits, le président peut convoquer une assemblée générale extraordinaire, suivant les formalités prévues par l'article 12.
+# Article 9 - La vie associative:
+La vie associative du L@bx appartient à ses membres, ils peuvent réaliser les projet, organiser les événements qu'ils souhaitent, sans l'aval du CA, dans le respect du statut et de la charte du L@bx
 
-# Article 14 :
-Règlement intérieur - Un règlement intérieur peut être établi par le bureau qui le fait alors approuver par l'assemblée générale. Ce règlement éventuel est destiné à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l'administration interne de l'association. 
 
-# Article 15 :
-Dissolution - En cas de dissolution prononcée par les deux tiers au moins des membres présents à l'assemblée générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l'actif, s'il y a lieu, est dévolu conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
+# Article 10 - Les ressources:
+Les ressources de l'association comprennent :
+- Le montant des droits d'entrée et des cotisations.
+- Les subventions éventuelles.
+- Les libéralités et autres dons manuels.
+- Toutes autres ressources non contraire aux règlements en vigueur.
 
+
+# Article 11 - Gouvernance:
+L'association est dirigée par un conseil d'administration, comprenant un nombre impair de personnes compris entre trois et onze.
+
+La taille du conseil est fixée pendant l'assemblé générale.
+
+Au cours de sa première séance, le CA choisit parmi ses membres celui qui assurera le suivi de la comptabilité et de la trésorerie au cours de l'année. Ce dernier peut être secondé dans cette fonction par une autre personne du CA désignée lors de cette même séance.
+
+Les membres du CA sont élus pour un an par l'assemblée générale annuelle. Les membres sont rééligibles.
+
+En cas de vacance, le conseil pourvoit provisoirement au remplacement de ses membres. Il est
+procédé à leur remplacement définitif à la prochaine assemblée générale. Les pouvoirs des
+membres ainsi élus prennent fin à la date à laquelle devait normalement expirer le mandat des
+membres remplacés.
+
+Le CA a pour fonction de :
+- Maintenir la comptabilité à jour.
+- Valider des propositions d'actions venant des adhérents et engageant  : 
+    - Des fonds de l'association.
+    - La mobilisation de moyens matériels de l'association pour des actions ne s'inscrivant pas dans leur usage normal par les membres (tel que défini par la charte). Exemples non exhaustifs : prêt de matériel, mise à disposition des locaux pour un événement.
+    - La responsabilité de l'association en tant que personne morale et l'utilisation de son logo (exemple non exhaustif : partenariat)
+-  Le conseil d'administration fait son possible pour favoriser la réalisation de l'objet de l'association, notamment par la mise à disposition des membres de l'espace et des outils communs, dans la limite des disponibilités de chacun et avec les moyens dont l'association dispose. Il met tout en œuvre pour permettre un usage sûr des outils et locaux de l'association. Il est de son ressort de restreindre l'accès si les conditions de sûreté ne sont plus réunies. 
+- Convoquer une ou des personnes de l'association si besoin notamment en cas de problèmes.
+- Amender la charte si besoin.
+    
+
+# Article 11 - Le conseil d'administration:
+Le conseil d'administration se réunit au moins une fois tous les trois mois par décision collégiale de tous les membres du conseil. 
+
+Si une date ne peut satisfaire tout le monde, la date sera déterminée en dernier recours par la majorité des membres du conseil d'administration.
+
+Chaque membre devra être prévenu au minimum 15 jours avant la date de la réunion. 
+
+Chaque adhérent peut demander la convocation du conseil d'administration à tout moment par courrier à ses membres en exprimant les motifs de cette convocation. 
+
+Les décisions du conseil pour être valables sont prises de façon collégiale et en dernier recours à la majorité des voix des présents. Le vote par procuration n'est pas autorisé. 
+
+Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réunions du conseil d'administration, pourra être considéré comme démissionnaire. 
+
+Les réunions donnent toujours lieu à un procès verbal.
+
+Un membre peut assister à une réunion mais ne peut pas participer aux votes, il peut sur invitation du conseil donner son avis et participer au débat.
+
+
+# Article 12 - Rémunération des membres de l’association:
+Les membres ont droit au remboursement de leurs frais sur présentation de justificatifs avec accord préalable du CA sur l’engagement des dépenses. 
+
+Les frais de déplacement seront remboursés sur le barème de l'administration fiscale. 
+
+Les fonctions des membres du conseil d'administration sont bénévoles.
+ 
+ 
+# Article 13 - Assemblée générale ordinaire
+L'assemblée générale ordinaire comprend tous les membres à jour de leur cotisation.
+
+L'assemblée générale se réunit au moins une fois par an pour soumettre le bilan des activités
+et le bilan financier de l'association lors de l'année écoulée, et pour définir les orientations
+pour l'année à venir. 
+
+Quinze jours au moins avant la date fixée, les membres de l'association
+sont convoqués par courriel via la liste de diffusion. 
+
+L'ordre du jour est indiqué sur les convocations. 
+
+Lors de l'assemblée, les décisions sont prises à la majorité des voix des présents et des procurations.
+Une seule procuration est autorisée par personne présente.
+
+Pour être entérinée, l'assemblée doit compter au moins un tiers des adhérents de l'association procurations comprises.
+
+
+# Article 14 - Assemblée générale extraordinaire
+Si besoin est, ou à la demande d'un tiers des adhérents à jour de leur cotisation, une assemblée
+générale extraordinaire est convoquée selon les modalités de l'article 13.
+ 
+ 
+# Article 15 - Charte de l'association
+Le conseil d'administration est en charge de l'établissement d'une charte de l'association et de
+son éventuelle modification. 
+
+Cette charte est destinée à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l'administration interne de l'association.
+
+La charte sera soumise à approbation à chaque assemblée générale. En cas de modifications
+en cours d'année jugées nécessaires par le conseil d'administration, tous les adhérents de
+l'association seront informés de ces changements au moins trois semaines avant l'entrée en
+vigueur de la nouvelle charte. 
+
+Un groupe d'adhérents dont le nombre représente au moins 15% des membres de l'association peut convoquer une assemblée extraordinaire s’il exprime des objections majeures sur la nouvelle charte.
+
+
+# Article 16 - Dissolution
+En cas de dissolution prononcée par les deux tiers des membres présents à l'assemblée
+générale, un ou plusieurs liquidateurs sont nommés par celle-ci, et l'actif si il y a lieu, est
+dévolu à une association poursuivant des buts proches de ceux de cette association,
+conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
