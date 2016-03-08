@@ -87,7 +87,7 @@ Le CA a pour fonction de :
 # Article 12 - Election du CA    
 Le CA est composé au maximum de 11 personnes et au minimum de 5 personnes.
 Un vote est réalisé pour chaque candidat. Tout les candidats obtenant la majorité des suffrages sont élus au CA.
-Si il y a plus de 11 personnes "élus", les candidat sont classé par nombre  de voix, les 11 premiers composeront le CA.
+Si il y a plus de 11 personnes "élus", les candidats sont classés par nombre  de voix, les 11 premiers composeront le CA.
 
 # Article 13 - Le conseil d'administration:
 Le conseil d'administration se réunit au moins une fois tous les trois mois par décision collégiale de tous les membres du conseil. 
