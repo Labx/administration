@@ -83,9 +83,13 @@ Le CA a pour fonction de :
 -  Le conseil d'administration fait son possible pour favoriser la réalisation de l'objet de l'association, notamment par la mise à disposition des membres de l'espace et des outils communs, dans la limite des disponibilités de chacun et avec les moyens dont l'association dispose. Il met tout en œuvre pour permettre un usage sûr des outils et locaux de l'association. Il est de son ressort de restreindre l'accès si les conditions de sûreté ne sont plus réunies. 
 - Convoquer une ou des personnes de l'association si besoin notamment en cas de problèmes.
 - Amender la charte si besoin.
-    
 
-# Article 11 - Le conseil d'administration:
+# Article 11 Election du CA    
+Le CA est composé au maximum de 11 personnes et au minimum de 5 personnes.
+Un vote est réalisé pour chaque candidat. Tout les candidats obtenant la majorité des suffrages sont élus au CA.
+Si il y a plus de 11 personnes "élus", les candidat sont classé par nombre  de voix, les 11 premiers composeront le CA.
+
+# Article 12 - Le conseil d'administration:
 Le conseil d'administration se réunit au moins une fois tous les trois mois par décision collégiale de tous les membres du conseil. 
 
 Si une date ne peut satisfaire tout le monde, la date sera déterminée en dernier recours par la majorité des membres du conseil d'administration.
@@ -103,7 +107,7 @@ Les réunions donnent toujours lieu à un procès verbal.
 Un membre peut assister à une réunion mais ne peut pas participer aux votes, il peut sur invitation du conseil donner son avis et participer au débat.
 
 
-# Article 12 - Rémunération des membres de l’association:
+# Article 13 - Rémunération des membres de l’association:
 Les membres ont droit au remboursement de leurs frais sur présentation de justificatifs avec accord préalable du CA sur l’engagement des dépenses. 
 
 Les frais de déplacement seront remboursés sur le barème de l'administration fiscale. 
@@ -111,7 +115,7 @@ Les frais de déplacement seront remboursés sur le barème de l'administration 
 Les fonctions des membres du conseil d'administration sont bénévoles.
  
  
-# Article 13 - Assemblée générale ordinaire
+# Article 14 - Assemblée générale ordinaire
 L'assemblée générale ordinaire comprend tous les membres à jour de leur cotisation.
 
 L'assemblée générale se réunit au moins une fois par an pour soumettre le bilan des activités
@@ -129,12 +133,12 @@ Une seule procuration est autorisée par personne présente.
 Pour être entérinée, l'assemblée doit compter au moins un tiers des adhérents de l'association procurations comprises.
 
 
-# Article 14 - Assemblée générale extraordinaire
+# Article 15 - Assemblée générale extraordinaire
 Si besoin est, ou à la demande d'un tiers des adhérents à jour de leur cotisation, une assemblée
 générale extraordinaire est convoquée selon les modalités de l'article 13.
  
  
-# Article 15 - Charte de l'association
+# Article 16 - Charte de l'association
 Le conseil d'administration est en charge de l'établissement d'une charte de l'association et de
 son éventuelle modification. 
 
@@ -148,7 +152,7 @@ vigueur de la nouvelle charte.
 Un groupe d'adhérents dont le nombre représente au moins 15% des membres de l'association peut convoquer une assemblée extraordinaire s’il exprime des objections majeures sur la nouvelle charte.
 
 
-# Article 16 - Dissolution
+# Article 17 - Dissolution
 En cas de dissolution prononcée par les deux tiers des membres présents à l'assemblée
 générale, un ou plusieurs liquidateurs sont nommés par celle-ci, et l'actif si il y a lieu, est
 dévolu à une association poursuivant des buts proches de ceux de cette association,
