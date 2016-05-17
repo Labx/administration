@@ -1,18 +1,18 @@
 
-Les règles du hackerspace
+# Les règles du hackerspace
 Les projets et les actions des membres au sein du Tetalab doivent rester dans un cadre légal.
 
 La règle nº 3 est la part la plus importante du hackerspace et du mouvement dans lequel il s'inscrit. Avoir des idées, c'est facile, il faut ensuite les réaliser, et c'est ce qui compte.
 
-# Mollo sur le destroy
+## Mollo sur le destroy
 Be safe.
 Dans tous vos projets, veillez à votre sécurité et celle des autres.
-# Payez votre cotisation
+## Payez votre cotisation
 Au moins une fois par an
 Le fonctionnement du Tetalab nous coûte de l'argent, les membres contribuent aux frais de fonctionnement.
 La cotisation de base est de 50€ par an, et libre à vous de mettre plus.
 
-# Tais-toi et fais-le
+## Tais-toi et fais-le
 just do it !
 Les idées ne valent pas grand chose... Si elles ne sont pas suivies d'actes. Ne perdez pas votre temps (et ne gaspillez pas celui des autres) en inutiles et interminables palabres.
 
@@ -22,7 +22,7 @@ Casser les choses est accepté ! Par exemple sur le serveur à disposition pour 
 
 Nous ne sommes pas une entreprise, et nous savons que nos expérimentations peuvent amener à des défaillances, ces expériences sont aussi bénéfiques afin d'arriver au résultat final.
 
-# Boite de stockage
+## Boite de stockage
 Chaque membre qui paye sa cotisation dispose d'une boite blanche dans le container. Cette boite coûte moins de 5€. Elle appartient au nouveau membre cotisant. Les boites sont toutes stockées dans le container.
 
 Si vous avez une boite, il vous est demandé de la décorer et de mettre votre nom ou votre pseudo dessus.
@@ -31,18 +31,18 @@ Parfois, un projet est trop gros pour rentrer dans une boite. Dans ce cas, deman
 
 Nous acceptons le stockage de gros matériel s'il concerne des projets en activité. Si votre projet est suspendu, merci de libérer la place dans le container en stockant votre matériel encombrant dans un autre lieu.
 
-# Pas d'écran cathodique
+## Pas d'écran cathodique
 Quand quelqu'un fait un dons au Tetalab, nous demandons de ne pas prendre tous les trucs inutiles.
 
 En particulier les écrans cathodiques, qui sont obsolètes et consomment trop d'électricité, ainsi que les vieux PC ou portables. Il y en a généralement pleins qui trainent et donnent plus de problèmes qu'ils n'offrent de pièces à récupérer.
 
-# Scuplture à 50 0000
+## Scuplture à 50 0000
 Respectez les installations des autres
 Certaines chose sont disponible dans le container pour être utilisées plutôt que pour être hackées. En cas de doute, mettez un autocollant "Scuplture à 50 0000" avec votre nom et la date sur vous projet afin que personne d'autre ne le modifie
 
 Cela permet de réduire l'encombrement et d'être sûr que l'espace ne sert pas à des projets oubliés.
 
-# On n'est pas chez mémé
+## On n'est pas chez mémé
 Personne ne passera nettoyer après vous
 Le terme d'autogestion implique quelque chose comme "on est pas chez mémé". Ce qui signifie que chacun est responsable et que personne ne passe derrière pour nettoyer, ranger, plier, etc.
 
@@ -50,13 +50,13 @@ Ainsi, si il est agréable de trouver une table ou poser ses affaires, il est bi
 
 Et, de la même manière, si les bières sont bienvenues, les canettes vides, les capsules, emballages et tous les déchets en général sont à emporter avec soi lors de son départ.
 
-# Santé et sécurité
+## Santé et sécurité
 Security first ! Le hackerspace met à disposition de ses membres un certains nombre d'outils. Certains sont dangereux s'il ne sont pas utilisés avec précaution.
 Pour la sécurité de tous, avant d'utiliser des outils (surtout si c'est une première fois), demandez aux membres aguerris de vous en expliquer l'usage.
 
 Si aucun membre n'est capable de vous donner un coup de main, patientez …
 
-# Les enfants et les curieux en bas-âges
+## Les enfants et les curieux en bas-âges
 Les enfants sont les bienvenus, mais soyez conscient que c'est principalement un espace pour adultes.
 
 Même si "We Make Porn" n'est qu'une allusion a la liberté du net, et que les membres du hackerspace n'utilisent pas le videoprojecteur pour diffuser des films de poneys, en dehors des évènements dédiés aux enfants, les membres du Tetalab ne surveillent pas leur langage. De plus, le hackerspace possède des outils très dangereux.
@@ -65,7 +65,7 @@ Les moins de 18 ans doivent être accompagnés par un adulte, et il est généra
 
 De temps en temps, nous avons des évènements spécialement dédiés aux enfants.
 
-# Consommables et matériel à modifier
+## Consommables et matériel à modifier
 Dans le container, vous trouverez du stockage de matériels: du bois, des tubes, des composants electronique... Il y a aussi des boites remplies d'autres matériels.
 
 De plus, il y a aussi une boite ikea pour chaque membre, que vous pouvez utiliser pour stocker votre matériel et vos projet.
@@ -76,7 +76,7 @@ de vous renseigner sur la mailing-list ou un mercredi soir pour savoir si le mat
 de garder les chutes plutôt que de les jeter
 de ne pas consommer trop de matériel, suivant votre interprétation de "trop"
 
-# Outils
+## Outils
 Apprennez à vous en servir.
 Nous avons pas mal d'outils disponibles que chaque membre peut utiliser (certains outils sont aimablement prêtés depuis plus ou moins longtemps et n'appartiennent pas au Tetalab).
 
@@ -90,7 +90,7 @@ Quand vous utilisez des outils, prévenez les personnes autour de vous, et, si v
 
 Prenez-soin des outils, n'essayez pas de retirer les mesures de sécurité, et merci de les remettre à l'endroit où vous les avez trouvé une fois que vous avez fini.
 
-# Dons à prendre ou à refuser
+## Dons à prendre ou à refuser
 Personne n'est obligé de faire plus de donation que le montant de la cotisation, mais certains le font quand même.
 
 Ces dons peuvent aller de pièces de rechange, jusqu'au vieux équipements ou des éléments ayant servis à des projets.
@@ -101,7 +101,7 @@ Quand quelqu'un fait un dons au Tetalab, nous demandons de ne pas prendre tous l
 
 En particulier les écrans cathodiques, ainsi que les vieux PC ou portables, il y en a généralement pleins qui trainent et donnent plus de problèmes qu'ils n'en valent.
 
-# Demandes d'achat
+## Demandes d'achat
 Parfois on a tous envie d'un nouveau jouet
 De temps en temps, vous verrez peut être passer des demandes d'achats sur la mailing-list. Vous pouvez les ignorer si vous le voulez, elles existent pour noter les interets des membres du Tetalab.
 
@@ -111,7 +111,7 @@ Une des missions du Tetalab est de répondre aux envies de ses membres, en parti
 
 Par exemple, dans le passé, nous avons eu des demandes d'achat pour une Dremel, une Kinect, carte d'acquisition vidéo, une boite à outils, des laptops.
 
-# Le Container un atelier à l'intérieur de Mix'Art
+## Le Container un atelier à l'intérieur de Mix'Art
 Le local du Tetalab est pour l'heure un container situé au sein de Mix'Art Myrys (voir plus bas).
 
 Être membre du Tetalab autorise l'accès au container et permet l'utilisation de ses outils et moyens dans les termes définis au dessus.
@@ -130,7 +130,7 @@ Fumer dans le hangar est toléré, cependant, jeter ses mégots par terre est ma
 
 Le container dispose de poubelles merci de les utiliser, quand elle sont pleines ne pas hésiter à les vider. Des nouveaux sacs poubelle sont au fond des poubelles.
 
-# Mix'art Myrys Collectif d'artistes autogéré
+## Mix'art Myrys Collectif d'artistes autogéré
 Le Tetalab est au coeur du collectif artistique autogéré Mix'art Myrys.
 
 Cette proximité favorise le développement de projets entre art et technologie.
@@ -151,7 +151,7 @@ Les staff myrys : le collectif organise des soirées et des évènements, le wee
 
 Si vous disposez d'un peu de temps, on en a tous, merci de participer à ces postes, vous trouverez la fiche d'inscription en salle d'AG à l'entrée du lieu. Les invités le Tetalab est ouvert à tous.
 
-# En dehors des réunions des mercredi soir, les invités sont bienvenus au Tetalab s'ils sont accompagné par un membre.
+## En dehors des réunions des mercredi soir, les invités sont bienvenus au Tetalab s'ils sont accompagné par un membre.
 Merci de ne pas donner le code du cadenas à des personnes qui ne sont pas membres du hackerspace. Des questions ? s'il manque des infos
 
 Pour finir
