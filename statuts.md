@@ -88,21 +88,33 @@ Un vote est réalisé pour chaque candidat. Tout les candidats obtenant la major
 Si il y a plus de 11 personnes "élus", les candidats sont classés par nombre  de voix, les 11 premiers composeront le CA.
 
 # Article 13 - Le conseil d'administration:
-Le conseil d'administration se réunit au moins une fois tous les trois mois par décision collégiale de tous les membres du conseil. 
+Le conseil d'administration se réunit au moins une fois tous les trois mois par décision collégiale
 
-Si une date ne peut satisfaire tout le monde, la date sera déterminée en dernier recours par la majorité des membres du conseil d'administration.
+de tous les membres du conseil.
 
-Chaque membre devra être prévenu au minimum 15 jours avant la date de la réunion. 
+Si une date ne peut satisfaire tout le monde, la date sera déterminée en dernier recours par la
 
-Chaque adhérent peut demander la convocation du conseil d'administration à tout moment par courrier à ses membres en exprimant les motifs de cette convocation. 
+majorité des membres du conseil d'administration.
 
-Les décisions du conseil pour être valables sont prises de façon collégiale et en dernier recours à la majorité des voix des présents. Le vote par procuration n'est pas autorisé. 
+Chaque membre devra être prévenu au minimum 15 jours avant la date de la réunion.
 
-Tout membre du conseil qui, sans excuse, n'aura pas assisté à trois réunions du conseil d'administration, pourra être considéré comme démissionnaire. 
+Chaque adhérent peut demander la convocation du conseil d'administration à tout moment par
+
+courrier à ses membres en exprimant les motifs de cette convocation.
+
+Les décisions du conseil pour être valables sont prises de façon collégiale et en dernier recours à la
+
+majorité des voix des présents. Le vote par procuration n'est pas autorisé.
+
+Tout membre du conseil qui, sans excuse, n'aura pas répondu à un sondages lancé pour fixer
+
+une date de réunion officielle du CA[7]pourra être considéré comme démissionnaire.
 
 Les réunions donnent toujours lieu à un procès verbal.
 
-Un membre peut assister à une réunion mais ne peut pas participer aux votes, il peut sur invitation du conseil donner son avis et participer au débat.
+Un membre peut assister à une réunion mais ne peut pas participer aux votes, il peut sur invitation
+
+du conseil donner son avis et participer au débat.[8]
 
 
 # Article 14 - Rémunération des membres de l’association:
