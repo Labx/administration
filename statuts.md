@@ -185,3 +185,5 @@ l'unanimité
 [12]Proposition Mathias refusée à l'unanimité.
 
 [13]Proposition Mathias refusée à l'unanimité.
+
+[14]Proposition Mathias refusée à l'unanimité moins un neutre.
