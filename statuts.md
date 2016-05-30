@@ -11,15 +11,10 @@ Cette association a pour but :
  - La réalisation de projets coopératifs ayant une composante culturelle, humanitaire ou scientifique.
  - La transmission de savoir faire par la publication des travaux effectués.
  - L'engagement d'actions susceptibles d'accroître la liberté d'utiliser, créer, analyser, modifier tout objet ou tout bien.
- - La mise à disposition des adhérents d'un espace de travail internet et physique autogéré.[^1]
- - La mise à disposition de ressources communes.[^2]
- - La sensibilisation aux technologies ainsi que leur étude et appropriation, et aux enjeux de l'autodéfense numérique.[^3]
+ - La mise à disposition des adhérents d'un espace de travail internet et physique autogéré.[1]
+ - La mise à disposition de ressources communes.[2]
+ - La sensibilisation aux technologies ainsi que leur étude et appropriation, et aux enjeux de l'autodéfense numérique.[3]
  - La volonté de recycler ou retrouver une utilisation au matériel ainsi que de trier les déchet inhérents aux projets
-
-[^1]:Proposition Mathias, adoptée à l'unanimité moins une voix contre
-[^2]:Proposition Mathias : ajouter « équitable et égalitaire ». Refus à l'unanimité : plutôt à définir dans la charte
-[^3]:Proposition Mathias : Ajout adopté à l 'unanimité.
-
 
 # Article 3 - Siège social:
 Le siège social est fixé sur le territoire de Bordeaux-Métropole. Il pourra être transféré par simple décision du conseil d'administration ; la ratification par l'assemblée générale sera nécessaire.
@@ -161,3 +156,32 @@ En cas de dissolution prononcée par les deux tiers des membres présents à l'a
 générale, un ou plusieurs liquidateurs sont nommés par celle-ci, et l'actif si il y a lieu, est
 dévolu à une association poursuivant des buts proches de ceux de cette association,
 conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
+
+_____
+[1]Proposition Mathias, adoptée à l'unanimité moins une voix contre
+
+[2]Proposition Mathias : ajouter « équitable et égalitaire ». Refus à l'unanimité : plutôt à définir dans la charte
+
+[3]Proposition Mathias : Ajout adopté à l 'unanimité.
+
+[4]Point soulevé par Mathias et remaniement collectif par l'assemblée : unanimité pour.
+
+[5]Proposition de Mathias : suppression à l'unanimité moins une voix contre.
+
+[6]Proposition de Mathias : interdire aux membres du CA de se présenter à deux mandats consécutifs. Rejet à
+
+l'unanimité
+
+[7]Modifié sur proposition de seb, adopté à l'unanimité.
+
+[8]Proposition Mathias refusée à l'unanimité moins un.
+
+[9]Suppression sur proposition de plusieurs personnes : plutôt à définir dans la charte
+
+[10]Proposition Mathias refusée à l'unanimité moins un.
+
+[11]Proposition Mathias refusée à l'unanimité.
+
+[12]Proposition Mathias refusée à l'unanimité.
+
+[13]Proposition Mathias refusée à l'unanimité.
