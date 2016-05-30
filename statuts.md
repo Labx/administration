@@ -59,6 +59,7 @@ Les ressources de l'association comprennent :
 
 # Article 11 - Gouvernance:
 L'association est dirigée par un conseil d'administration, comprenant un nombre impair de personnes compris entre trois et onze.
+[6]
 
 La taille du conseil est fixée pendant l'assemblé générale.
 
