@@ -44,8 +44,7 @@ Sont membres actifs ceux qui sont à jours de leur cotisations. Ils ont le droit
 La qualité de membre se perd par : 
 - La démission.
 - Le décès.
-- La radiation prononcée par le bureau pour non-paiement de la cotisation ou pour motif grave, l'intéressé ayant été invité  à se présenter devant le CA  pour fournir des explications.  Les avis sont motivés ensuite par le CA pendant les Assemblées Générales. 
-
+- La radiation prononcée pour non­paiement de la cotisation ou pour motif grave, Le CA peut proposer une radiation. La décision est soumise au vote des membres et doit recueillir au moins les deux tiers des votes exprimés pour être effective. Les avis sont notifiés ensuite par le CA pendant les Assemblées Générales.[4]
 
 # Article 9 - La vie associative:
 La vie associative du L@bx appartient à ses membres, ils peuvent réaliser les projet, organiser les événements qu'ils souhaitent, sans l'aval du CA, dans le respect du statut et de la charte du L@bx
