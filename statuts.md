@@ -134,7 +134,7 @@ Pour être entérinée, l'assemblée doit compter au moins un tiers des adhéren
 
 # Article 16 - Assemblée générale extraordinaire
 Si besoin est, ou à la demande d'un tiers des adhérents à jour de leur cotisation, une assemblée
-générale extraordinaire est convoquée selon les modalités de l'article 13.
+générale extraordinaire est convoquée selon les modalités de l'article 13.[12]
  
  
 # Article 17 - Charte de l'association
