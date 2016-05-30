@@ -11,14 +11,14 @@ Cette association a pour but :
  - La réalisation de projets coopératifs ayant une composante culturelle, humanitaire ou scientifique.
  - La transmission de savoir faire par la publication des travaux effectués.
  - L'engagement d'actions susceptibles d'accroître la liberté d'utiliser, créer, analyser, modifier tout objet ou tout bien.
- - La mise à disposition des adhérents d'un espace de travail internet et physique autogéré[^1].
- - La mise à disposition de ressources communes[^2].
- - La sensibilisation aux technologies ainsi que leur étude et appropriation, et aux enjeux de l'autodéfense numérique[^3].
+ - La mise à disposition des adhérents d'un espace de travail internet et physique autogéré.[^1]
+ - La mise à disposition de ressources communes.[^2]
+ - La sensibilisation aux technologies ainsi que leur étude et appropriation, et aux enjeux de l'autodéfense numérique.[^3]
  - La volonté de recycler ou retrouver une utilisation au matériel ainsi que de trier les déchet inhérents aux projets
 
-[^1]Proposition Mathias, adoptée à l'unanimité moins une voix contre
-[^2]Proposition Mathias : ajouter « équitable et égalitaire ». Refus à l'unanimité : plutôt à définir dans la charte
-[^3]Proposition Mathias : Ajout adopté à l 'unanimité.
+:[^1]Proposition Mathias, adoptée à l'unanimité moins une voix contre
+:[^2]Proposition Mathias : ajouter « équitable et égalitaire ». Refus à l'unanimité : plutôt à définir dans la charte
+:[^3]Proposition Mathias : Ajout adopté à l 'unanimité.
 
 
 # Article 3 - Siège social:
