@@ -16,9 +16,9 @@ Cette association a pour but :
  - La sensibilisation aux technologies ainsi que leur étude et appropriation, et aux enjeux de l'autodéfense numérique.[^3]
  - La volonté de recycler ou retrouver une utilisation au matériel ainsi que de trier les déchet inhérents aux projets
 
-:[^1]Proposition Mathias, adoptée à l'unanimité moins une voix contre
-:[^2]Proposition Mathias : ajouter « équitable et égalitaire ». Refus à l'unanimité : plutôt à définir dans la charte
-:[^3]Proposition Mathias : Ajout adopté à l 'unanimité.
+[^1]:Proposition Mathias, adoptée à l'unanimité moins une voix contre
+[^2]:Proposition Mathias : ajouter « équitable et égalitaire ». Refus à l'unanimité : plutôt à définir dans la charte
+[^3]:Proposition Mathias : Ajout adopté à l 'unanimité.
 
 
 # Article 3 - Siège social:
