@@ -11,9 +11,9 @@ Cette association a pour but :
  - La réalisation de projets coopératifs ayant une composante culturelle, humanitaire ou scientifique.
  - La transmission de savoir faire par la publication des travaux effectués.
  - L'engagement d'actions susceptibles d'accroître la liberté d'utiliser, créer, analyser, modifier tout objet ou tout bien.
- - La mise à disposition des adhérents d'un espace de travail internet et physique autogéré.[1]
- - La mise à disposition de ressources communes.[2]
- - La sensibilisation aux technologies ainsi que leur étude et appropriation, et aux enjeux de l'autodéfense numérique.[3]
+ - La mise à disposition des adhérents d'un espace de travail internet et physique autogéré.
+ - La mise à disposition de ressources communes.
+ - La sensibilisation aux technologies ainsi que leur étude et appropriation, et aux enjeux de l'autodéfense numérique.
  - La volonté de recycler ou retrouver une utilisation au matériel ainsi que de trier les déchet inhérents aux projets
 
 # Article 3 - Siège social:
@@ -44,7 +44,7 @@ Sont membres actifs ceux qui sont à jours de leur cotisations. Ils ont le droit
 La qualité de membre se perd par : 
 - La démission.
 - Le décès.
-- La radiation prononcée pour non­paiement de la cotisation ou pour motif grave, Le CA peut proposer une radiation. La décision est soumise au vote des membres et doit recueillir au moins les deux tiers des votes exprimés pour être effective. Les avis sont notifiés ensuite par le CA pendant les Assemblées Générales.[4]
+- La radiation prononcée pour non­paiement de la cotisation ou pour motif grave, Le CA peut proposer une radiation. La décision est soumise au vote des membres et doit recueillir au moins les deux tiers des votes exprimés pour être effective. Les avis sont notifiés ensuite par le CA pendant les Assemblées Générales.
 
 # Article 9 - La vie associative:
 La vie associative du L@bx appartient à ses membres, ils peuvent réaliser les projet, organiser les événements qu'ils souhaitent, sans l'aval du CA, dans le respect du statut et de la charte du L@bx
@@ -55,11 +55,9 @@ Les ressources de l'association comprennent :
 - Le montant des droits d'entrée et des cotisations.
 - Les libéralités et autres dons manuels.
 - Toutes autres ressources non contraire aux règlements en vigueur.
-[5]
 
 # Article 11 - Gouvernance:
 L'association est dirigée par un conseil d'administration, comprenant un nombre impair de personnes compris entre trois et onze.
-[6]
 
 La taille du conseil est fixée pendant l'assemblé générale.
 
@@ -108,19 +106,19 @@ majorité des voix des présents. Le vote par procuration n'est pas autorisé.
 
 Tout membre du conseil qui, sans excuse, n'aura pas répondu à un sondages lancé pour fixer
 
-une date de réunion officielle du CA[7]pourra être considéré comme démissionnaire.
+une date de réunion officielle du CA pourra être considéré comme démissionnaire.
 
 Les réunions donnent toujours lieu à un procès verbal.
 
 Un membre peut assister à une réunion mais ne peut pas participer aux votes, il peut sur invitation
 
-du conseil donner son avis et participer au débat.[8]
+du conseil donner son avis et participer au débat.
 
 
 # Article 14 - Rémunération des membres de l’association:
 Les membres ont droit au remboursement de leurs frais sur présentation de justificatifs avec accord préalable du CA sur l’engagement des dépenses. 
 Les fonctions des membres du conseil d'administration sont bénévoles.
-[9] [10]
+
  
 # Article 15 - Assemblée générale ordinaire
 L'assemblée générale ordinaire comprend tous les membres à jour de leur cotisation.
@@ -130,16 +128,16 @@ Quinze jours au moins avant la date fixée, les membres de l'association sont co
 
 L'ordre du jour est indiqué sur les convocations. Lors de l'assemblée, les décisions sont prises à la majorité des voix des présents et des procurations. Une seule procuration est autorisée par personne présente.
 
-Pour être entérinée, l'assemblée doit compter au moins un tiers des adhérents de l'association procurations comprises.[11]
+Pour être entérinée, l'assemblée doit compter au moins un tiers des adhérents de l'association procurations comprises.
 
 # Article 16 - Assemblée générale extraordinaire
 Si besoin est, ou à la demande d'un tiers des adhérents à jour de leur cotisation, une assemblée
-générale extraordinaire est convoquée selon les modalités de l'article 13.[12]
+générale extraordinaire est convoquée selon les modalités de l'article 13.
  
  
 # Article 17 - Charte de l'association
 Le conseil d'administration est en charge de l'établissement d'une charte de l'association et de
-son éventuelle modification.[13]
+son éventuelle modification.
 
 Cette charte est destinée à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l'administration interne de l'association.
 
@@ -157,33 +155,3 @@ générale, un ou plusieurs liquidateurs sont nommés par celle-ci, et l'actif s
 dévolu à une association poursuivant des buts proches de ceux de cette association,
 conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
 
-### synthése des modification apportées pendant l'AG de mai 2016
-[1]Proposition Mathias, adoptée à l'unanimité moins une voix contre
-
-[2]Proposition Mathias : ajouter « équitable et égalitaire ». Refus à l'unanimité : plutôt à définir dans la charte
-
-[3]Proposition Mathias : Ajout adopté à l 'unanimité.
-
-[4]Point soulevé par Mathias et remaniement collectif par l'assemblée : unanimité pour.
-
-[5]suppression des subvention éventuelle : Proposition de Mathias : suppression à l'unanimité moins une voix contre.
-
-[6]Proposition de Mathias : interdire aux membres du CA de se présenter à deux mandats consécutifs. Rejet à
-
-l'unanimité
-
-[7]Modifié sur proposition de seb, adopté à l'unanimité.
-
-[8]Proposition Mathias refusée à l'unanimité moins un.
-
-[9]Suppression sur proposition de plusieurs personnes : plutôt à définir dans la charte
-
-[10]Proposition Mathias refusée à l'unanimité moins un.
-
-[11]Proposition Mathias refusée à l'unanimité.
-
-[12]Proposition Mathias refusée à l'unanimité.
-
-[13]Proposition Mathias refusée à l'unanimité.
-
-[14]Proposition Mathias refusée à l'unanimité moins un neutre.
