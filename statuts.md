@@ -120,25 +120,17 @@ du conseil donner son avis et participer au débat.[8]
 # Article 14 - Rémunération des membres de l’association:
 Les membres ont droit au remboursement de leurs frais sur présentation de justificatifs avec accord préalable du CA sur l’engagement des dépenses. 
 Les fonctions des membres du conseil d'administration sont bénévoles.
-[9] 
+[9] [10]
  
 # Article 15 - Assemblée générale ordinaire
 L'assemblée générale ordinaire comprend tous les membres à jour de leur cotisation.
+L'assemblée générale se réunit au moins une fois par an pour soumettre le bilan des activités et le
+bilan financier de l'association lors de l'année écoulée, et pour définir les orientations pour l'année à venir.
+Quinze jours au moins avant la date fixée, les membres de l'association sont convoqués par courriel via la liste de diffusion.
 
-L'assemblée générale se réunit au moins une fois par an pour soumettre le bilan des activités
-et le bilan financier de l'association lors de l'année écoulée, et pour définir les orientations
-pour l'année à venir. 
+L'ordre du jour est indiqué sur les convocations. Lors de l'assemblée, les décisions sont prises à la majorité des voix des présents et des procurations. Une seule procuration est autorisée par personne présente.
 
-Quinze jours au moins avant la date fixée, les membres de l'association
-sont convoqués par courriel via la liste de diffusion. 
-
-L'ordre du jour est indiqué sur les convocations. 
-
-Lors de l'assemblée, les décisions sont prises à la majorité des voix des présents et des procurations.
-Une seule procuration est autorisée par personne présente.
-
-Pour être entérinée, l'assemblée doit compter au moins un tiers des adhérents de l'association procurations comprises.
-
+Pour être entérinée, l'assemblée doit compter au moins un tiers des adhérents de l'association procurations comprises.[11]
 
 # Article 16 - Assemblée générale extraordinaire
 Si besoin est, ou à la demande d'un tiers des adhérents à jour de leur cotisation, une assemblée
