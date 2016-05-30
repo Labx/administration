@@ -53,10 +53,9 @@ La vie associative du L@bx appartient à ses membres, ils peuvent réaliser les 
 # Article 10 - Les ressources:
 Les ressources de l'association comprennent :
 - Le montant des droits d'entrée et des cotisations.
-- Les subventions éventuelles.
 - Les libéralités et autres dons manuels.
 - Toutes autres ressources non contraire aux règlements en vigueur.
-
+[5]
 
 # Article 11 - Gouvernance:
 L'association est dirigée par un conseil d'administration, comprenant un nombre impair de personnes compris entre trois et onze.
@@ -165,7 +164,7 @@ conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 a
 
 [4]Point soulevé par Mathias et remaniement collectif par l'assemblée : unanimité pour.
 
-[5]Proposition de Mathias : suppression à l'unanimité moins une voix contre.
+[5]suppression des subvention éventuelle : Proposition de Mathias : suppression à l'unanimité moins une voix contre.
 
 [6]Proposition de Mathias : interdire aux membres du CA de se présenter à deux mandats consécutifs. Rejet à
 
