@@ -139,7 +139,7 @@ générale extraordinaire est convoquée selon les modalités de l'article 13.[1
  
 # Article 17 - Charte de l'association
 Le conseil d'administration est en charge de l'établissement d'une charte de l'association et de
-son éventuelle modification. 
+son éventuelle modification.[13]
 
 Cette charte est destinée à fixer les divers points non prévus par les statuts, notamment ceux qui ont trait à l'administration interne de l'association.
 
