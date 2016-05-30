@@ -119,11 +119,8 @@ du conseil donner son avis et participer au débat.[8]
 
 # Article 14 - Rémunération des membres de l’association:
 Les membres ont droit au remboursement de leurs frais sur présentation de justificatifs avec accord préalable du CA sur l’engagement des dépenses. 
-
-Les frais de déplacement seront remboursés sur le barème de l'administration fiscale. 
-
 Les fonctions des membres du conseil d'administration sont bénévoles.
- 
+[9] 
  
 # Article 15 - Assemblée générale ordinaire
 L'assemblée générale ordinaire comprend tous les membres à jour de leur cotisation.
