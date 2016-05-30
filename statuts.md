@@ -157,7 +157,7 @@ générale, un ou plusieurs liquidateurs sont nommés par celle-ci, et l'actif s
 dévolu à une association poursuivant des buts proches de ceux de cette association,
 conformément à l'article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
 
-_____
+### synthése des modification apportées pendant l'AG de mai 2016
 [1]Proposition Mathias, adoptée à l'unanimité moins une voix contre
 
 [2]Proposition Mathias : ajouter « équitable et égalitaire ». Refus à l'unanimité : plutôt à définir dans la charte
