@@ -1,4 +1,4 @@
-L@bx status
+L@bx statuts
 
 
 # Article 1er - Titre:
