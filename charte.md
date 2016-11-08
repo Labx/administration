@@ -14,15 +14,20 @@ Au moins une fois par an
 Le fonctionnement du L@bx nous coûte de l'argent, les membres contribuent aux frais de fonctionnement.
 La cotisation de base est de 60€ par an, et libre à vous de mettre plus.
 
-## Tais-toi et fais-le
-just do it !
-Les idées ne valent pas grand chose... Si elles ne sont pas suivies d'actes. Ne perdez pas votre temps (et ne gaspillez pas celui des autres) en inutiles et interminables palabres.
+## Aide toi et le lab t’aidera
+Le labx est ouvert  aux bavards, aux curieux, aux makers, aux hackers, aux roboticiens, aux artistes etc ...
+Nous venons aux l@bx pour discuter, travailler, s'entraider sur des projets de court/moyen/long terme.
+Les membres qui viennent au l@bx sur leur temps libre, pour avancer sur leurs projets, il y assez d'espace au l@bx et à POLA pour organiser un coin débat/discutions sans déranger ceux qui ne souhaite pas y participer.
 
-Les Hackerpaces sont remplis d'idées. La réalisation de ces idées trompe toujours les bavards, et tant que ces activités n'interfèrent pas avec le lieu ou les autres membres, vous avez toutes les raisons pour continuer.
+Les Hackerpaces sont remplis d'idées. Tant que ces activités n'interfèrent pas avec le lieu ou les autres membres, vous avez toutes les raisons pour continuer.
+
+Au L@bx nous privilégions le DIY alors essayé avant de questionné(Just Do it :) )
 
 Casser les choses est accepté ! Par exemple sur le serveur à disposition pour tous les membres, si vous installez des choses dessus et que le serveur casse, ce n'est pas un souci, ça vous apprendra à le réparer et à trouver une solution pour que ça n'arrive plus.
 
 Nous ne sommes pas une entreprise, et nous savons que nos expérimentations peuvent amener à des défaillances, ces expériences sont aussi bénéfiques afin d'arriver au résultat final.
+
+
 
 ## Boite de stockage
 Chaque membre qui paye sa cotisation dispose d'une boite  dans le L@bx. Cette boite coûte moins de 5€. Elle appartient au nouveau membre cotisant. Les boites sont toutes stockées dans le L@bx.
@@ -110,7 +115,7 @@ La wishlist des outils à acheter - disponible sur stock.labx.fr ( a faire ) - e
 Une des missions du L@bx est de répondre aux envies de ses membres, en particulier concernant les outils spécialisés gros, bizarres ou chers.
 
 
-## Le L@bc un atelier à l'intérieur de Pola
+## Le L@bx un atelier à l'intérieur de Pola
 Le local du L@bx est pour l'heure au sein de Pola.
 
 Être membre du L@bx autorise l'accès au L@bx et permet l'utilisation de ses outils et moyens dans les termes définis au dessus.
