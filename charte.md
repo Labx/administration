@@ -21,7 +21,7 @@ Les membres qui viennent au l@bx sur leur temps libre, pour avancer sur leurs pr
 
 Les Hackerpaces sont remplis d'idées. Tant que ces activités n'interfèrent pas avec le lieu ou les autres membres, vous avez toutes les raisons pour continuer.
 
-Au L@bx nous privilégions le DIY alors essayé avant de questionné(Just Do it :) )
+Au L@bx nous privilégions le DIY alors essayé avant de questionner(Just Do it :) )
 
 Casser les choses est accepté ! Par exemple sur le serveur à disposition pour tous les membres, si vous installez des choses dessus et que le serveur casse, ce n'est pas un souci, ça vous apprendra à le réparer et à trouver une solution pour que ça n'arrive plus.
 
